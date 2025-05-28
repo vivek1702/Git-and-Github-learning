@@ -4,3 +4,7 @@ this is file 2
 
 
 "another bug fixex"
+
+"editing this while on master branch"
+
+
