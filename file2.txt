@@ -4,3 +4,6 @@ this is file 2
 
 
 "another bug fixex"
+
+
+"add when on bug fix branch"
