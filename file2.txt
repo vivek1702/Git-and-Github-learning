@@ -8,3 +8,6 @@ this is file 2
 "editing this while on master branch"
 
 
+
+"another marketing message at 03-06-2025 11:16"
+"add when on bug fix branch"
