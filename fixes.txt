@@ -1,5 +1,7 @@
-<<<<<<< Updated upstream
 Iam a fix file
-=======
 "doing something here after doing changes in after adding something in file 3 and keep it in stash"
->>>>>>> Stashed changes
+
+
+"another fix at 03/06/2025 at 18:07"
+
+
